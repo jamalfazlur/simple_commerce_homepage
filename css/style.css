@@ -19,24 +19,19 @@
     color: white;
     border-radius: 3px;
 }
-
 .dmt-slider {
     background: #e3e3e3;
     padding-top: 30px;
     padding-bottom: 30px;
     margin-top: -20px;
 }
-
 .dmt-content{
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
 .dmt-content .dmt-item-img {
     margin-bottom: 20px;
-    /* height: 120px; */
 }
-
 .dmt-footer {
     margin-top: 50px;
     padding-top: 30px;
